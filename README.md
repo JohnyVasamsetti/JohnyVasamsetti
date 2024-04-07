@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Johny</h1>
 <h3 align="center">A passionate infrastructure consultant from India</h3>
-<img align="right" alt="Coding" width="400" src="https://images.app.goo.gl/bbMbH4D4ksqebAoz9](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🔭 I’m currently working on **Thoughtworks**
 
 - 🌱 I’m currently learning **AWS cloud through SAA-C03, Karpenter**

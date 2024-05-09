@@ -27,7 +27,6 @@
     <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a>
     <a href="https://karpenter.sh/" target="_blank" rel="noreferrer"> <img src="https://github.com/aws/karpenter-provider-aws/blob/main/website/static/full_logo.png" alt="spring" width="40" height="40"/> </a>
     <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> <img src="https://www.datocms-assets.com/2885/1629941242-logo-terraform-main.svg" alt="spring" width="40" height="40"/> </a>
-    
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>  
     <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a>    

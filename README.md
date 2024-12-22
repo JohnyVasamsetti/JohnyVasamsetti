@@ -23,8 +23,9 @@
 </p>
 
 <h3 align="left">Links:</h3>
-- 🌐 Check out my website: [https://johnyvasamsetti.github.io/](https://johnyvasamsetti.github.io/)
-- 📄 View my resume: [Resume Link](https://drive.google.com/file/d/1xw25odHfARS6RA9SGUxdvvHvOTUQQBCN/view?usp=sharing)
+- 🌐 Check out my **[website](https://johnyvasamsetti.github.io/)**
+
+- 📄 View my resume: **[Resume Link](https://drive.google.com/file/d/1xw25odHfARS6RA9SGUxdvvHvOTUQQBCN/view?usp=sharing)**
 
 <h3 align="left">Skills & Tools:</h3>
 [![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,git,githubactions,ansible,bash,py,java,c,rust,django,spring,javascript,react,linux)](https://skillicons.dev)

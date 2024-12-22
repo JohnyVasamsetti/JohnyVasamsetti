@@ -23,6 +23,7 @@
 </p>
 
 <h3 align="left">Links:</h3>
+
 - 🌐 Check out my **[website](https://johnyvasamsetti.github.io/)**
 
 - 📄 View my resume: **[Resume Link](https://drive.google.com/file/d/1xw25odHfARS6RA9SGUxdvvHvOTUQQBCN/view?usp=sharing)**

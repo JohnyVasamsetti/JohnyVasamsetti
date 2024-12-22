@@ -31,7 +31,11 @@
 <h3 align="left">Skills & Tools:</h3>
 [![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,git,githubactions,py,java,rust,django,spring,javascript,react,linux)](https://skillicons.dev)
 
+
 <h3 align="left">GitHub Stats:</h3>
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=johnyvasamsetti&show_icons=true&locale=en&layout=compact" alt="johnyvasamsetti" />
 </p>
+
+<h3 align="left">Skills & Tools:</h3>
+[![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,git,githubactions,py,java,rust,django,spring,javascript,react,linux)](https://skillicons.dev)

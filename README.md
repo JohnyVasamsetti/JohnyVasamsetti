@@ -30,7 +30,7 @@
 
 
 <h3 align="left">Skills & Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,git,githubactions,ansible,bash,py,java,c,rust,django,spring,javascript,react,linux)](https://skillicons.dev)
+**[![My Skills](https://skillicons.dev/icons?i=aws,terraform,docker,kubernetes,git,githubactions,py,java,rust,django,spring,javascript,react,linux)](https://skillicons.dev)**
 
 <h3 align="left">GitHub Stats:</h3>
 <p>
